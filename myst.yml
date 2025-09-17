@@ -4,7 +4,7 @@ extends:
   - https://raw.githubusercontent.com/projectpythia/pythia-config/main/pythia.yml
 project:
   id: 00033604-f595-498a-9407-eab331b49411
-  # title:
+  title: Web Map / Feature Services Cookbook
   # description:
   # keywords: []
   # authors: []
